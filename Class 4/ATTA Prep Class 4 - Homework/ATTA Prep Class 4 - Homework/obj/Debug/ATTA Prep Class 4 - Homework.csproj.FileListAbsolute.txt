@@ -1,0 +1,14 @@
+C:\Users\Shaunna\OneDrive\C# ATTA Prep Course\Class 4\ATTA Prep Class 4 - Homework\ATTA Prep Class 4 - Homework\obj\Debug\ATTA Prep Class 4 - Homework.csprojAssemblyReference.cache
+C:\Users\Shaunna\OneDrive\C# ATTA Prep Course\Class 4\ATTA Prep Class 4 - Homework\ATTA Prep Class 4 - Homework\obj\Debug\ATTA Prep Class 4 - Homework.csproj.CoreCompileInputs.cache
+C:\Users\Shaunna\OneDrive\C# ATTA Prep Course\Class 4\ATTA Prep Class 4 - Homework\ATTA Prep Class 4 - Homework\bin\Debug\ATTA Prep Class 4 - Homework.exe.config
+C:\Users\Shaunna\OneDrive\C# ATTA Prep Course\Class 4\ATTA Prep Class 4 - Homework\ATTA Prep Class 4 - Homework\bin\Debug\ATTA Prep Class 4 - Homework.exe
+C:\Users\Shaunna\OneDrive\C# ATTA Prep Course\Class 4\ATTA Prep Class 4 - Homework\ATTA Prep Class 4 - Homework\bin\Debug\ATTA Prep Class 4 - Homework.pdb
+C:\Users\Shaunna\OneDrive\C# ATTA Prep Course\Class 4\ATTA Prep Class 4 - Homework\ATTA Prep Class 4 - Homework\obj\Debug\ATTA Prep Class 4 - Homework.exe
+C:\Users\Shaunna\OneDrive\C# ATTA Prep Course\Class 4\ATTA Prep Class 4 - Homework\ATTA Prep Class 4 - Homework\obj\Debug\ATTA Prep Class 4 - Homework.pdb
+C:\Users\Sroche\OneDrive\C# ATTA Prep Course\Class 4\ATTA Prep Class 4 - Homework\ATTA Prep Class 4 - Homework\obj\Debug\ATTA Prep Class 4 - Homework.exe
+C:\Users\Sroche\OneDrive\C# ATTA Prep Course\Class 4\ATTA Prep Class 4 - Homework\ATTA Prep Class 4 - Homework\obj\Debug\ATTA Prep Class 4 - Homework.pdb
+C:\Users\Sroche\OneDrive\C# ATTA Prep Course\Class 4\ATTA Prep Class 4 - Homework\ATTA Prep Class 4 - Homework\bin\Debug\ATTA Prep Class 4 - Homework.exe.config
+C:\Users\Sroche\OneDrive\C# ATTA Prep Course\Class 4\ATTA Prep Class 4 - Homework\ATTA Prep Class 4 - Homework\bin\Debug\ATTA Prep Class 4 - Homework.exe
+C:\Users\Sroche\OneDrive\C# ATTA Prep Course\Class 4\ATTA Prep Class 4 - Homework\ATTA Prep Class 4 - Homework\bin\Debug\ATTA Prep Class 4 - Homework.pdb
+C:\Users\Sroche\OneDrive\C# ATTA Prep Course\Class 4\ATTA Prep Class 4 - Homework\ATTA Prep Class 4 - Homework\obj\Debug\ATTA Prep Class 4 - Homework.csprojResolveAssemblyReference.cache
+C:\Users\Sroche\OneDrive\C# ATTA Prep Course\Class 4\ATTA Prep Class 4 - Homework\ATTA Prep Class 4 - Homework\obj\Debug\ATTA Prep Class 4 - Homework.csproj.CoreCompileInputs.cache

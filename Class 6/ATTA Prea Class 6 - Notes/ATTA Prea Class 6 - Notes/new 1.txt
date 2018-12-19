@@ -1,0 +1,61 @@
+ public static string findReplace(string s1, string s2, char c)
+        {
+            // s1 = mainString, s2 = findString, c = replaceChar
+            
+            {
+                List<char> outputList = find(mainString, findString, replaceChar);
+                string output = beString(outputList);
+                return output;
+            }
+        }
+        public static string beString(List<char> list)
+        {
+            StringBuilder toReturn = new StringBuilder();
+            foreach(char c in list)
+            {
+                toReturn.Append(c);
+            }
+            return toReturn.ToString();
+        }
+        public static List<char> find(string s1, string s2, char c)
+        {
+            List<char> toBeString = new List<char>();
+
+            for (int i = 0; i < s1.Length - 1; ++i)
+            {
+                if (s1[i] == s2[0])
+                {
+                    bool subS = subStringCheck(s1, s2, i);
+                    if (subS == true)
+                    {
+                        toBeString.Add(c);
+                        i = i + s2.Length - 1;
+                    }
+                }
+                else
+                {
+                    toBeString.Add(s1[i]);
+                }
+
+            }
+            return toBeString;
+        }
+         
+        public static bool subStringCheck(string s1, string s2, int i)
+        {
+            bool test = false;
+            for (int j = 1; j < s2.Length - 1; ++j)
+            {
+                if (s1[i + j] == s2[j])
+                {
+                    test = true;
+                }
+                else if (s1[i + j] != s2[j])
+                {
+                    test = false;
+                    break;
+                }
+            }
+            return test;
+        }
+    }

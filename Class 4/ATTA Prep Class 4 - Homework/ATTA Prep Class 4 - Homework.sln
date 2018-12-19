@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATTA Prep Class 4 - Homework", "ATTA Prep Class 4 - Homework\ATTA Prep Class 4 - Homework.csproj", "{18A679DA-C238-4171-8AF5-8F566FE419AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18A679DA-C238-4171-8AF5-8F566FE419AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18A679DA-C238-4171-8AF5-8F566FE419AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18A679DA-C238-4171-8AF5-8F566FE419AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18A679DA-C238-4171-8AF5-8F566FE419AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9961C519-AA1E-48C9-88EC-852BA6D47BB5}
+	EndGlobalSection
+EndGlobal

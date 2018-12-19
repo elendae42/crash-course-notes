@@ -1,0 +1,6 @@
+C:\Users\sroche\OneDrive\C# ATTA Prep Course\Class 6\ATTA Prea Class 6 - Notes\ATTA Prea Class 6 - Notes\bin\Debug\ATTA Prea Class 6 - Notes.exe.config
+C:\Users\sroche\OneDrive\C# ATTA Prep Course\Class 6\ATTA Prea Class 6 - Notes\ATTA Prea Class 6 - Notes\bin\Debug\ATTA Prea Class 6 - Notes.exe
+C:\Users\sroche\OneDrive\C# ATTA Prep Course\Class 6\ATTA Prea Class 6 - Notes\ATTA Prea Class 6 - Notes\bin\Debug\ATTA Prea Class 6 - Notes.pdb
+C:\Users\sroche\OneDrive\C# ATTA Prep Course\Class 6\ATTA Prea Class 6 - Notes\ATTA Prea Class 6 - Notes\obj\Debug\ATTA Prea Class 6 - Notes.csprojResolveAssemblyReference.cache
+C:\Users\sroche\OneDrive\C# ATTA Prep Course\Class 6\ATTA Prea Class 6 - Notes\ATTA Prea Class 6 - Notes\obj\Debug\ATTA Prea Class 6 - Notes.exe
+C:\Users\sroche\OneDrive\C# ATTA Prep Course\Class 6\ATTA Prea Class 6 - Notes\ATTA Prea Class 6 - Notes\obj\Debug\ATTA Prea Class 6 - Notes.pdb

@@ -1,0 +1,6 @@
+C:\Users\Shaunna\OneDrive\C# ATTA Prep Course\ATTA Prep Class 1 Homework Operators\ATTA Prep Class 1 Homework Operators\bin\Debug\ATTA Prep Class 1 Homework Operators.exe.config
+C:\Users\Shaunna\OneDrive\C# ATTA Prep Course\ATTA Prep Class 1 Homework Operators\ATTA Prep Class 1 Homework Operators\bin\Debug\ATTA Prep Class 1 Homework Operators.exe
+C:\Users\Shaunna\OneDrive\C# ATTA Prep Course\ATTA Prep Class 1 Homework Operators\ATTA Prep Class 1 Homework Operators\bin\Debug\ATTA Prep Class 1 Homework Operators.pdb
+C:\Users\Shaunna\OneDrive\C# ATTA Prep Course\ATTA Prep Class 1 Homework Operators\ATTA Prep Class 1 Homework Operators\obj\Debug\ATTA Prep Class 1 Homework Operators.csproj.CoreCompileInputs.cache
+C:\Users\Shaunna\OneDrive\C# ATTA Prep Course\ATTA Prep Class 1 Homework Operators\ATTA Prep Class 1 Homework Operators\obj\Debug\ATTA Prep Class 1 Homework Operators.exe
+C:\Users\Shaunna\OneDrive\C# ATTA Prep Course\ATTA Prep Class 1 Homework Operators\ATTA Prep Class 1 Homework Operators\obj\Debug\ATTA Prep Class 1 Homework Operators.pdb

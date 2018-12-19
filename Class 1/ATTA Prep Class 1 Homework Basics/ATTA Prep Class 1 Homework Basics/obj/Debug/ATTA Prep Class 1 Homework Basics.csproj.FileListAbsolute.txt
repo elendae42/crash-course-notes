@@ -1,0 +1,7 @@
+C:\Users\Shaunna\OneDrive\C# ATTA Prep Course\ATTA Prep Class 1 Homework Basics\ATTA Prep Class 1 Homework Basics\bin\Debug\ATTA Prep Class 1 Homework Basics.exe.config
+C:\Users\Shaunna\OneDrive\C# ATTA Prep Course\ATTA Prep Class 1 Homework Basics\ATTA Prep Class 1 Homework Basics\bin\Debug\ATTA Prep Class 1 Homework Basics.exe
+C:\Users\Shaunna\OneDrive\C# ATTA Prep Course\ATTA Prep Class 1 Homework Basics\ATTA Prep Class 1 Homework Basics\bin\Debug\ATTA Prep Class 1 Homework Basics.pdb
+C:\Users\Shaunna\OneDrive\C# ATTA Prep Course\ATTA Prep Class 1 Homework Basics\ATTA Prep Class 1 Homework Basics\obj\Debug\ATTA Prep Class 1 Homework Basics.csprojAssemblyReference.cache
+C:\Users\Shaunna\OneDrive\C# ATTA Prep Course\ATTA Prep Class 1 Homework Basics\ATTA Prep Class 1 Homework Basics\obj\Debug\ATTA Prep Class 1 Homework Basics.csproj.CoreCompileInputs.cache
+C:\Users\Shaunna\OneDrive\C# ATTA Prep Course\ATTA Prep Class 1 Homework Basics\ATTA Prep Class 1 Homework Basics\obj\Debug\ATTA Prep Class 1 Homework Basics.exe
+C:\Users\Shaunna\OneDrive\C# ATTA Prep Course\ATTA Prep Class 1 Homework Basics\ATTA Prep Class 1 Homework Basics\obj\Debug\ATTA Prep Class 1 Homework Basics.pdb

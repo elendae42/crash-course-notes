@@ -1,0 +1,14 @@
+C:\Users\Sroche\OneDrive\C# ATTA Prep Course\Class 6\ATTA Prep Class 6 - Homework\ATTA Prep Class 6 - Homework\bin\Debug\ATTA Prep Class 6 - Homework.exe.config
+C:\Users\Sroche\OneDrive\C# ATTA Prep Course\Class 6\ATTA Prep Class 6 - Homework\ATTA Prep Class 6 - Homework\bin\Debug\ATTA Prep Class 6 - Homework.exe
+C:\Users\Sroche\OneDrive\C# ATTA Prep Course\Class 6\ATTA Prep Class 6 - Homework\ATTA Prep Class 6 - Homework\bin\Debug\ATTA Prep Class 6 - Homework.pdb
+C:\Users\Sroche\OneDrive\C# ATTA Prep Course\Class 6\ATTA Prep Class 6 - Homework\ATTA Prep Class 6 - Homework\obj\Debug\ATTA Prep Class 6 - Homework.csprojResolveAssemblyReference.cache
+C:\Users\Sroche\OneDrive\C# ATTA Prep Course\Class 6\ATTA Prep Class 6 - Homework\ATTA Prep Class 6 - Homework\obj\Debug\ATTA Prep Class 6 - Homework.csproj.CoreCompileInputs.cache
+C:\Users\Sroche\OneDrive\C# ATTA Prep Course\Class 6\ATTA Prep Class 6 - Homework\ATTA Prep Class 6 - Homework\obj\Debug\ATTA Prep Class 6 - Homework.exe
+C:\Users\Sroche\OneDrive\C# ATTA Prep Course\Class 6\ATTA Prep Class 6 - Homework\ATTA Prep Class 6 - Homework\obj\Debug\ATTA Prep Class 6 - Homework.pdb
+C:\Users\Shaunna\OneDrive\C# ATTA Prep Course\Class 6\ATTA Prep Class 6 - Homework\ATTA Prep Class 6 - Homework\bin\Debug\ATTA Prep Class 6 - Homework.exe.config
+C:\Users\Shaunna\OneDrive\C# ATTA Prep Course\Class 6\ATTA Prep Class 6 - Homework\ATTA Prep Class 6 - Homework\bin\Debug\ATTA Prep Class 6 - Homework.exe
+C:\Users\Shaunna\OneDrive\C# ATTA Prep Course\Class 6\ATTA Prep Class 6 - Homework\ATTA Prep Class 6 - Homework\bin\Debug\ATTA Prep Class 6 - Homework.pdb
+C:\Users\Shaunna\OneDrive\C# ATTA Prep Course\Class 6\ATTA Prep Class 6 - Homework\ATTA Prep Class 6 - Homework\obj\Debug\ATTA Prep Class 6 - Homework.csprojAssemblyReference.cache
+C:\Users\Shaunna\OneDrive\C# ATTA Prep Course\Class 6\ATTA Prep Class 6 - Homework\ATTA Prep Class 6 - Homework\obj\Debug\ATTA Prep Class 6 - Homework.csproj.CoreCompileInputs.cache
+C:\Users\Shaunna\OneDrive\C# ATTA Prep Course\Class 6\ATTA Prep Class 6 - Homework\ATTA Prep Class 6 - Homework\obj\Debug\ATTA Prep Class 6 - Homework.exe
+C:\Users\Shaunna\OneDrive\C# ATTA Prep Course\Class 6\ATTA Prep Class 6 - Homework\ATTA Prep Class 6 - Homework\obj\Debug\ATTA Prep Class 6 - Homework.pdb

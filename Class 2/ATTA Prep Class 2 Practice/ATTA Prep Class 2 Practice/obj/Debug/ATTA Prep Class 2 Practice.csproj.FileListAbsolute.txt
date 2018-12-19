@@ -1,0 +1,13 @@
+C:\Users\sroche\OneDrive - Blizzard Entertainment\C# ATTA Prep course\ATTA Prep Class 2 Practice\ATTA Prep Class 2 Practice\obj\Debug\ATTA Prep Class 2 Practice.csprojResolveAssemblyReference.cache
+C:\Users\sroche\OneDrive - Blizzard Entertainment\C# ATTA Prep course\ATTA Prep Class 2 Practice\ATTA Prep Class 2 Practice\bin\Debug\ATTA Prep Class 2 Practice.exe.config
+C:\Users\sroche\OneDrive - Blizzard Entertainment\C# ATTA Prep course\ATTA Prep Class 2 Practice\ATTA Prep Class 2 Practice\bin\Debug\ATTA Prep Class 2 Practice.exe
+C:\Users\sroche\OneDrive - Blizzard Entertainment\C# ATTA Prep course\ATTA Prep Class 2 Practice\ATTA Prep Class 2 Practice\bin\Debug\ATTA Prep Class 2 Practice.pdb
+C:\Users\sroche\OneDrive - Blizzard Entertainment\C# ATTA Prep course\ATTA Prep Class 2 Practice\ATTA Prep Class 2 Practice\obj\Debug\ATTA Prep Class 2 Practice.exe
+C:\Users\sroche\OneDrive - Blizzard Entertainment\C# ATTA Prep course\ATTA Prep Class 2 Practice\ATTA Prep Class 2 Practice\obj\Debug\ATTA Prep Class 2 Practice.pdb
+C:\Users\Shaunna\Desktop\ATTA Prep Class 2 Practice\ATTA Prep Class 2 Practice\bin\Debug\ATTA Prep Class 2 Practice.exe.config
+C:\Users\Shaunna\Desktop\ATTA Prep Class 2 Practice\ATTA Prep Class 2 Practice\bin\Debug\ATTA Prep Class 2 Practice.exe
+C:\Users\Shaunna\Desktop\ATTA Prep Class 2 Practice\ATTA Prep Class 2 Practice\bin\Debug\ATTA Prep Class 2 Practice.pdb
+C:\Users\Shaunna\Desktop\ATTA Prep Class 2 Practice\ATTA Prep Class 2 Practice\obj\Debug\ATTA Prep Class 2 Practice.csprojAssemblyReference.cache
+C:\Users\Shaunna\Desktop\ATTA Prep Class 2 Practice\ATTA Prep Class 2 Practice\obj\Debug\ATTA Prep Class 2 Practice.csproj.CoreCompileInputs.cache
+C:\Users\Shaunna\Desktop\ATTA Prep Class 2 Practice\ATTA Prep Class 2 Practice\obj\Debug\ATTA Prep Class 2 Practice.exe
+C:\Users\Shaunna\Desktop\ATTA Prep Class 2 Practice\ATTA Prep Class 2 Practice\obj\Debug\ATTA Prep Class 2 Practice.pdb

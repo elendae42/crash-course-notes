@@ -1,0 +1,7 @@
+C:\Users\Sroche\OneDrive\C# ATTA Prep Course\Class 5\ATTA Prep Class 5 Homwork\ATTA Prep Class 5 Homwork\obj\Debug\ATTA Prep Class 5 Homwork.csprojResolveAssemblyReference.cache
+C:\Users\Sroche\OneDrive\C# ATTA Prep Course\Class 5\ATTA Prep Class 5 Homwork\ATTA Prep Class 5 Homwork\obj\Debug\ATTA Prep Class 5 Homwork.csproj.CoreCompileInputs.cache
+C:\Users\Sroche\OneDrive\C# ATTA Prep Course\Class 5\ATTA Prep Class 5 Homwork\ATTA Prep Class 5 Homwork\bin\Debug\ATTA Prep Class 5 Homwork.exe.config
+C:\Users\Sroche\OneDrive\C# ATTA Prep Course\Class 5\ATTA Prep Class 5 Homwork\ATTA Prep Class 5 Homwork\bin\Debug\ATTA Prep Class 5 Homwork.exe
+C:\Users\Sroche\OneDrive\C# ATTA Prep Course\Class 5\ATTA Prep Class 5 Homwork\ATTA Prep Class 5 Homwork\bin\Debug\ATTA Prep Class 5 Homwork.pdb
+C:\Users\Sroche\OneDrive\C# ATTA Prep Course\Class 5\ATTA Prep Class 5 Homwork\ATTA Prep Class 5 Homwork\obj\Debug\ATTA Prep Class 5 Homwork.exe
+C:\Users\Sroche\OneDrive\C# ATTA Prep Course\Class 5\ATTA Prep Class 5 Homwork\ATTA Prep Class 5 Homwork\obj\Debug\ATTA Prep Class 5 Homwork.pdb
