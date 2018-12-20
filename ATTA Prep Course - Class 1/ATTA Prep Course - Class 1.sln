@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SR - ATTA Prep Course - Class 1 - Notes", "ATTA Prep Course - Class 1\SR - ATTA Prep Course - Class 1 - Notes.csproj", "{68FF9632-5C90-46A8-9018-D178439105AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SR - ATTA Prep Course - Class 1 - Homework", "ATTA Prep Course - Class 1 - Homework\SR - ATTA Prep Course - Class 1 - Homework.csproj", "{E54A11B8-69CD-453C-9207-333DE3EFDF81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68FF9632-5C90-46A8-9018-D178439105AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68FF9632-5C90-46A8-9018-D178439105AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68FF9632-5C90-46A8-9018-D178439105AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68FF9632-5C90-46A8-9018-D178439105AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E54A11B8-69CD-453C-9207-333DE3EFDF81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E54A11B8-69CD-453C-9207-333DE3EFDF81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E54A11B8-69CD-453C-9207-333DE3EFDF81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E54A11B8-69CD-453C-9207-333DE3EFDF81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4706EB67-B063-46F3-B12F-D6976D601C29}
+	EndGlobalSection
+EndGlobal
