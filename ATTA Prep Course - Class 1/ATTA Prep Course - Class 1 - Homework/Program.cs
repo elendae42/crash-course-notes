@@ -8,6 +8,8 @@ namespace ATTA_Prep_Course___Class_1___Homework
 {
     class Program
     // Homework exercises program has a standard menu with switch cases that allows the user to select which program exercise they would like to execute. Each exercise is housed in its own Class file under the exercise number. If you wish to view the code for a given exercise please look at the appropriate class file. 
+
+    // To run a specific project in debug mode ensure the correct project is selected from the dropdown next to the 'Start' button in VS.
     {
         private static void ExerciseGroup()
         {
@@ -97,7 +99,6 @@ namespace ATTA_Prep_Course___Class_1___Homework
                 " 5. Continue to practice writing functions by imagining different simple tasks that they can perform.\n    Here are some ideas:\n\n    -Given three floating point numbers, return the average of all three.\n    -Given two integer values, return true if they are equal and false if not.\n    -Given an integer value, return the square of that integer.\n    -Given two strings, combine both strings into a single string and write the new string to the console.\n    -Given the lengths of two sides of a right triangle, return the length of the hypotenuse\n");
             Console.Write("  ->   ");
         }
-
         static string SelectExerciseBasic()
         {
             ExerciseListBasic();
@@ -155,22 +156,24 @@ namespace ATTA_Prep_Course___Class_1___Homework
             }
             return userChoice;
         }
-
         static void GetExerciseBasic(string userChoice)
         {
             switch (userChoice)
             {
                 case "1":
-                    Console.WriteLine("Not yet implemented");
+                    string userMessage = Group1.UserMessageEx1();
+                    Group1.WriteMessageEx1(userMessage);
                     break;
                 case "2":
-                    Console.WriteLine("Not yet implemented");
+                    string firstPart = Group1.FirstHalfEx2();
+                    string secondPart = Group1.SecondHalfEx2();
+                    Group1.CombineMessagesEx2(firstPart, secondPart);
                     break;
                 case "3":
-                    Console.WriteLine("Not yet implemented");
+                    Group1.PrintResultsEx3();
                     break;
                 case "4":
-                    Console.WriteLine("Not yet implemented");
+                    Group1.PrintResultsEx4();
                     break;
             }
         }
@@ -214,7 +217,6 @@ namespace ATTA_Prep_Course___Class_1___Homework
                     break;
             }
         }
-
         static void Main(string[] args)
         {
             Console.SetWindowSize(160, 40);
