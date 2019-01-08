@@ -49,12 +49,12 @@ namespace ATTA_Prep_Course___Class_1___Homework
             Console.WriteLine(
                 "This exercise doesn't have an interactive implementation. The code results should look like:\n");
             Console.WriteLine("     int x = 3;");
-            Console.WriteLine("Raised to the power of 2\n    x = x * x;\n    Console.Writeline(x)\n");
-            Console.WriteLine("Raised to the power of 2\n    x *= x;\n    Console.Writeline(x)\n");
-            Console.WriteLine("Raised to the power of 3\n    x = x * x * x;\n    Console.Writeline(x)\n");
-            Console.WriteLine("Raised to the power of 3\n    x *= x *= x\n    Console.Writeline(x)\n");
-            Console.WriteLine("Raised to the power of 4\n    x = x * x * x * x;\n    Console.Writeline(x)\n");
-            Console.WriteLine("Raised to the power of 4\n    x *= x *= x *= x;\n    Console.Writeline(x)\n");
+            Console.WriteLine("Raised to the power of 2\n    x = x * x;\n    Console.WriteLine(x)\n");
+            Console.WriteLine("Raised to the power of 2\n    x *= x;\n    Console.WriteLine(x)\n");
+            Console.WriteLine("Raised to the power of 3\n    x = x * x * x;\n    Console.WriteLine(x)\n");
+            Console.WriteLine("Raised to the power of 3\n    x *= x *= x\n    Console.WriteLine(x)\n");
+            Console.WriteLine("Raised to the power of 4\n    x = x * x * x * x;\n    Console.WriteLine(x)\n");
+            Console.WriteLine("Raised to the power of 4\n    x *= x *= x *= x;\n    Console.WriteLine(x)\n");
         }
         static public void PowersOfTwo()
         {
@@ -107,7 +107,7 @@ namespace ATTA_Prep_Course___Class_1___Homework
                 return false;
             }
         }
-        public static string UserchoiceEx3()
+        public static string UserChoiceEx3()
         {
             userChoiceEx3Menu();
             string userChoice = "null";
