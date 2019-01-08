@@ -192,17 +192,17 @@ namespace ATTA_Prep_Course___Class_1___Homework
                     Group2.PowersOfFour();
                     break;
                 case "3":
-                    Console.WriteLine("The varibles for the comparisons are\n    x = 6.5f\n    y = -6.5f");
+                    Console.WriteLine("The variables for the comparisons are\n    x = 6.5f\n    y = -6.5f");
                     float x = 6.5f;
                     float y = -6.5f;
-                    Console.WriteLine("The first companison: x > 1.5f");
+                    Console.WriteLine("The first comparison: x > 1.5f");
                     bool compare01 = x > 1.5f;
-                    string userChoiceEx301 = Group2.UserchoiceEx3();
+                    string userChoiceEx301 = Group2.UserChoiceEx3();
                     bool IsUserChoiceCorrect01 = Group2.UserGuess(userChoiceEx301);
                     Group2.CompareUserGuess(IsUserChoiceCorrect01, compare01);
-                    Console.WriteLine("The second companison: y > 1.5f");
+                    Console.WriteLine("The second comparison: y > 1.5f");
                     bool compare02 = y > 1.5f;
-                    string userChoiceEx302 = Group2.UserchoiceEx3();
+                    string userChoiceEx302 = Group2.UserChoiceEx3();
                     bool IsUserChoiceCorrect02 = Group2.UserGuess(userChoiceEx302);
                     Group2.CompareUserGuess(IsUserChoiceCorrect02, compare02);
                     break;
@@ -216,40 +216,40 @@ namespace ATTA_Prep_Course___Class_1___Homework
                     bool ex4Compare05 = x4 > 0f && y4 > 0f;
                     bool ex4Compare06 = x4 * -1f == y4;
                     bool ex4Compare07 = x4 != y4 && x4 < y4;
-                    Console.WriteLine("The varibles for the comparisons are\n    x = 6.5f\n    y = -6.5f");
+                    Console.WriteLine("The variables for the comparisons are\n    x = 6.5f\n    y = -6.5f");
                     // Comparison 1
-                    Console.WriteLine("The first companison: x > y");
-                    string userChoiceEx401 = Group2.UserchoiceEx3();
+                    Console.WriteLine("The first comparison: x > y");
+                    string userChoiceEx401 = Group2.UserChoiceEx3();
                     bool IsUserChoiceCorrect401 = Group2.UserGuess(userChoiceEx401);
                     Group2.CompareUserGuess(IsUserChoiceCorrect401, ex4Compare01);
                     // Comparison 2
-                    Console.WriteLine("The second companison: x <= 6.5f");
-                    string userChoiceEx402 = Group2.UserchoiceEx3();
+                    Console.WriteLine("The second comparison: x <= 6.5f");
+                    string userChoiceEx402 = Group2.UserChoiceEx3();
                     bool IsUserChoiceCorrect402 = Group2.UserGuess(userChoiceEx402);
                     Group2.CompareUserGuess(IsUserChoiceCorrect402, ex4Compare02);
                     // Comparison 3
-                    Console.WriteLine("The first companison: 6.5f == y");
-                    string userChoiceEx403 = Group2.UserchoiceEx3();
+                    Console.WriteLine("The first comparison: 6.5f == y");
+                    string userChoiceEx403 = Group2.UserChoiceEx3();
                     bool IsUserChoiceCorrect403 = Group2.UserGuess(userChoiceEx403);
                     Group2.CompareUserGuess(IsUserChoiceCorrect403, ex4Compare03);
                     // Comparison 4
-                    Console.WriteLine("The first companison: x > y");
-                    string userChoiceEx404 = Group2.UserchoiceEx3();
+                    Console.WriteLine("The first comparison: x > y");
+                    string userChoiceEx404 = Group2.UserChoiceEx3();
                     bool IsUserChoiceCorrect404 = Group2.UserGuess(userChoiceEx404);
                     Group2.CompareUserGuess(IsUserChoiceCorrect404, ex4Compare04);
                     // Comparison 5
-                    Console.WriteLine("The first companison: x > 0 && y > 0");
-                    string userChoiceEx405 = Group2.UserchoiceEx3();
+                    Console.WriteLine("The first comparison: x > 0 && y > 0");
+                    string userChoiceEx405 = Group2.UserChoiceEx3();
                     bool IsUserChoiceCorrect405 = Group2.UserGuess(userChoiceEx405);
                     Group2.CompareUserGuess(IsUserChoiceCorrect405, ex4Compare05);
                     // Comparison 6
-                    Console.WriteLine("The first companison: x * -1f == y");
-                    string userChoiceEx406 = Group2.UserchoiceEx3();
+                    Console.WriteLine("The first comparison: x * -1f == y");
+                    string userChoiceEx406 = Group2.UserChoiceEx3();
                     bool IsUserChoiceCorrect406 = Group2.UserGuess(userChoiceEx406);
                     Group2.CompareUserGuess(IsUserChoiceCorrect406, ex4Compare06);
                     // Comparison 7
-                    Console.WriteLine("The first companison: x != y && x < y");
-                    string userChoiceEx407 = Group2.UserchoiceEx3();
+                    Console.WriteLine("The first comparison: x != y && x < y");
+                    string userChoiceEx407 = Group2.UserChoiceEx3();
                     bool IsUserChoiceCorrect407 = Group2.UserGuess(userChoiceEx407);
                     Group2.CompareUserGuess(IsUserChoiceCorrect407, ex4Compare07);
                     break;
