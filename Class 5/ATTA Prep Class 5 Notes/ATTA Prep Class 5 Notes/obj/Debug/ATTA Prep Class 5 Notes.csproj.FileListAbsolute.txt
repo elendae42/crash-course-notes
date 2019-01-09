@@ -1,6 +1,0 @@
-C:\Users\sroche\OneDrive\C# ATTA Prep Course\Class 5\ATTA Prep Class 5 Notes\ATTA Prep Class 5 Notes\bin\Debug\ATTA Prep Class 5 Notes.exe.config
-C:\Users\sroche\OneDrive\C# ATTA Prep Course\Class 5\ATTA Prep Class 5 Notes\ATTA Prep Class 5 Notes\bin\Debug\ATTA Prep Class 5 Notes.exe
-C:\Users\sroche\OneDrive\C# ATTA Prep Course\Class 5\ATTA Prep Class 5 Notes\ATTA Prep Class 5 Notes\bin\Debug\ATTA Prep Class 5 Notes.pdb
-C:\Users\sroche\OneDrive\C# ATTA Prep Course\Class 5\ATTA Prep Class 5 Notes\ATTA Prep Class 5 Notes\obj\Debug\ATTA Prep Class 5 Notes.csprojResolveAssemblyReference.cache
-C:\Users\sroche\OneDrive\C# ATTA Prep Course\Class 5\ATTA Prep Class 5 Notes\ATTA Prep Class 5 Notes\obj\Debug\ATTA Prep Class 5 Notes.exe
-C:\Users\sroche\OneDrive\C# ATTA Prep Course\Class 5\ATTA Prep Class 5 Notes\ATTA Prep Class 5 Notes\obj\Debug\ATTA Prep Class 5 Notes.pdb
